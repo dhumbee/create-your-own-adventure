@@ -4,6 +4,8 @@ In addition, you notice that a burning campfire, complete with a log to sit on, 
 
 For some reason, you cannot get the thought of smores out of your head.
 
+So you take advantage of the situation and scoop up a handful of soft, gooey marshmallow...yummy...
+
 Do you:
 
 [Start screaming.](start-screaming/start-screaming.md)
